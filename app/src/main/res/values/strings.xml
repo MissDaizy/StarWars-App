@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">StarWars</string>
+    <string name="search_movie">Search Movie</string>
+    <string name="title">TITLE</string>
+    <string name="release_date_preview">Release Date:</string>
+    <string name="release_date">RELEASE DATE</string>
+    <string name="summary_preview">Summary:</string>
+    <string name="summary">SUMMARY</string>
+    <string name="image">image</string>
+</resources>
